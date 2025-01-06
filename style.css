@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h4 {
+    color: #333;
+}
+
+#shop-list .assign-btn {
+    width: 100%;
+}
+
+#timer {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
